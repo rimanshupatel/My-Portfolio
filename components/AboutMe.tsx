@@ -13,7 +13,7 @@ export default function AboutMe() {
       text: (
         <>
           Learning{" "}
-          <span className="text-purple  ">Next.js, AI, and MERN stack</span> to
+          <span className="text-purple ">Next.js, AI, and MERN stack</span> to
           build impactful projects.
         </>
       ),
@@ -59,7 +59,6 @@ export default function AboutMe() {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block text-gray-400 underline underline-offset-4 hover:text-purple-300 transition-colors"
-                aria-label="Ankita's Twitter profile"
               >
                 @rimanshu_patel
               </Link>
@@ -71,7 +70,7 @@ export default function AboutMe() {
               data-aos="zoom-y-out"
               data-aos-delay="150"
             >
-              Hi, I'm Rimanshu 👋🏽, I have
+              Hi, I&apos;m Rimanshu 👋🏽, I have
             </h2>
 
             {/* Achievements List */}

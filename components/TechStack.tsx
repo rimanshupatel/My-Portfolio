@@ -87,7 +87,7 @@ export default function TechStack() {
             Tech Stack
           </h2>
           <p className="text-xl text-gray-300 text-center">
-            Here are the technologies we'll be using in this course.
+            Here are the technologies we&apos;ll be using in this course.
           </p>
         </div>
 
